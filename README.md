@@ -9,5 +9,6 @@
 Our project will investigate the relationship between chemical composition and wine quality, focusing on identifying which physicochemical properties most strongly predict wine quality and how these relationships differ between red and white wines. Our project aims to provide insights into wine production that could benefit winemakers and consumers.
 
 ## References
-- [Wine Quality Dataset - UC Irvine ML Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
+- **Dataset**: [Wine Quality Dataset - UC Irvine ML Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
 - [Portuguese Vinho Verde Wine Region](https://en.wikipedia.org/wiki/Vinho_Verde)
+- [Control color in seaborn heatmaps](https://python-graph-gallery.com/92-control-color-in-seaborn-heatmaps/)
